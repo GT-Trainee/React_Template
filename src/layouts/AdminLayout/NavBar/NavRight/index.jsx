@@ -44,7 +44,7 @@ const NavRight = () => {
             </Dropdown.Toggle>
             <Dropdown.Menu align="end" className="notification notification-scroll">
               <div className="noti-head">
-                <h6 className="d-inline-block m-b-0">Notifications</h6>
+                <h6 className="d-inline-block m-b-0">Notifications demo</h6>
                 <div className="float-end">
                   <Link to="#" className="me-2">
                     mark as read
